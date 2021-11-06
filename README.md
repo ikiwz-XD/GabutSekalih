@@ -32,8 +32,10 @@ $pip install futures
 
 $ python2 darkfbv1.9.pyc
 
+ # Bisa Pasang Penjaga Nyala Facebook
 
-$ USER & PASS
+
+# USER & PASS
 
 ID  : Termux
 
