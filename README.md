@@ -1,5 +1,7 @@
 # darkfbv1.9
+
 Script darkfb v1.9 (login akses token).
+
 
 # perintah yg harus di install
 
@@ -29,3 +31,11 @@ $pip install futures
 # Run script
 
 $ python2 darkfbv1.9.pyc
+
+
+$ USER & PASS
+
+ID  : Termux
+
+PASS : omaliptv
+
